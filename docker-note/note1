@@ -1,0 +1,2 @@
+docker 停止命令 在目录 ：/var/ww/dockerdemo/ 运行  ./stop.sh  文件
+docker 重建命令在目录  ：/var/ww/dockerdemo/ sudo  docker-compose build
